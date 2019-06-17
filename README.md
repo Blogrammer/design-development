@@ -1,0 +1,2 @@
+# table-driven
+Table-driven methods are schemes that allow you to look up information in a table rather than using logic statements (i.e. case, if). In simple cases, it's quicker and easier to use logic statements, but as the logic chain becomes more complex, table-driven code is simpler than complicated logic, easier to modify and more efficient.   Table Driven Design is an alternative to switch-case and if-else statements. It is based on key value pairs. Therefore, memorized key-value pairs are the main trick.   Separation of Concerns is an essential milestone.
